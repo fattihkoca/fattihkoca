@@ -74,7 +74,7 @@ I speak fluent code and I’m always looking for new challenges:
 ---
 
 ## 🙏 My Last Project I’m Proud Of
-<p align="center"><img src="https://user-images.githubusercontent.com/1655312/190709006-1ba54b08-d104-4781-a187-6fde23f6bb9c.png"></p>  
+<p align="center"><a href="https://classest.com" target="_blank"><img src="https://user-images.githubusercontent.com/1655312/190709006-1ba54b08-d104-4781-a187-6fde23f6bb9c.png"></a></p>  
 Led the infrastructure development and launch of a startup company in the e-learning sector from the ground up. In addition to designing the front-end and implementing modular coding, continuously integrated new features into the platform. Furthermore, ensured the use of modern solutions to equip the company with the most cost-effective and efficient infrastructure. 
 
 ---
