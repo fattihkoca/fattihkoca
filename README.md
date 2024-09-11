@@ -18,13 +18,12 @@
 I’ve got over 10 years of experience writing JavaScript and crafting web solutions. From frontend to backend, here’s what I bring to the table:
 
 🛠 **Web Development Toolkit:**  
-- **Languages:** JavaScript (ES6+), HTML5, CSS3  
-- **Frameworks & Libraries:** Vue.js, Angular, Node.js, jQuery, Socket.io  
+- **Languages:** PHP, JavaScript (Vanilla, Frameworks), HTML5, CSS3 (SCSS, SaSS)  
 - **Build Tools:** Webpack, Gulp, npm  
-- **Hybrid Mobile Apps:** NativeScript, Ionic  
+- **Hybrid Mobile Apps:** React Native, NativeScript, Ionic  
 - **Browser Extensions:** Chrome App/Extension Development  
 - **Responsive UI Frameworks:** Bootstrap  
-- **Real-Time Solutions:** Socket.io, WebSocket  
+- **Real-Time Solutions:** WebSocket, WebRTC, Socket.io,   
 - **Mobile & Web Experience:** Hybrid Mobile App Development
 
 ---
@@ -34,13 +33,11 @@ I’ve got over 10 years of experience writing JavaScript and crafting web solut
 I’ve worked with an arsenal of development tools and platforms, ensuring smooth deployment, version control, and project management:
 
 🔧 **Dev Tools I’ve Mastered:**  
-- **Version Control:** GIT  
+- **Version Control:** Git, Github, GitLab, Bitbucket  
 - **Project Management:** Trello, Slack, AirTable  
 - **Server Management:** Docker, LEMP, LAMP stack  
-- **Cloud Services:** DigitalOcean, AWS  
-- **Design Tools:** Figma, Sketch, Adobe Photoshop, Adobe Illustrator  
-- **Database Tools:** TablePlus, Sequel Pro, Redis, MySQL, PostgreSQL  
-- **File Transfers & Deployments:** Transmit, SFTP, SSH
+- **Cloud Services:** DigitalOcean, AWS, Google Cloud  
+- **Deployment & File Transfer:** CI/CD Pipeline (Github Actions), S3, Transmit, SFTP, SSH  
 - **AI & Creativity Tools:** I’ve explored nearly every AI tool out there! From designing stunning interfaces to producing video, music, and images – my passion for AI drives me to innovate and push boundaries. Currently, I’m deep into a groundbreaking project with my latest startup, where I’m learning, coding, and creating something truly exciting. 🚀🎨🎬  
 
 ---
@@ -50,11 +47,12 @@ I’ve worked with an arsenal of development tools and platforms, ensuring smoot
 I’m obsessed with clean, user-friendly interfaces and intuitive experiences:
 
 🖼 **UI & UX Expertise:**  
-- **Wireframes & Mockups:** Figma, Sketch  
+- **Wireframes & Mockups:** Figma (UI/UX), Sketch (UI/UX) 
 - **Responsive Design:** Making sure every pixel looks good on all devices  
-- **Visual Design:** SVG, PNG, AI, EPS, Font Icons, Sprite Icons  
+- **Visual Design:** SVG, WebP, AI, EPS, Font Icons, Sprite Icons  
 - **Design Systems:** Crafting design libraries that make scaling a breeze  
 - **A/B Testing:** Constantly improving with user feedback and data
+- **Another Tools:** Adobe Photoshop, Adobe Illustrator 
 
 ---
 
@@ -64,11 +62,11 @@ I speak fluent code and I’m always looking for new challenges:
 
 💾 **Languages I Work With:**  
 - **PHP** (v5.*, v7.*, Laravel, custom frameworks)  
-- **JavaScript:** My bread and butter for over a decade!  
+- **JavaScript:** (ES6, Vanilla JS, Vue.js, Angular, React, TypeScript, Node.js, jQuery) My bread and butter for over a decade!  
 - **Python:** New to Python, but keen to learn and grow.
 
 🔗 **Databases & Caching:**  
-- **Storage Systems:** MySQL, Redis, PostgreSQL, Local Storage, Session Storage  
+- **Storage Systems:** MySQL, Redis, PostgreSQL, Web Storage 
 - **Data Handling:** Efficient caching strategies, optimized queries, and high availability solutions.
 
 ---
