@@ -24,7 +24,7 @@ I’ve got over 10 years of experience writing JavaScript and crafting web solut
 - **Hybrid Mobile Apps:** NativeScript, Ionic  
 - **Browser Extensions:** Chrome App/Extension Development  
 - **Responsive UI Frameworks:** Bootstrap  
-- **Real-Time Solutions:** Socket.io  
+- **Real-Time Solutions:** Socket.io, WebSocket  
 - **Mobile & Web Experience:** Hybrid Mobile App Development
 
 ---
@@ -65,7 +65,7 @@ I speak fluent code and I’m always looking for new challenges:
 💾 **Languages I Work With:**  
 - **PHP** (v5.*, v7.*, Laravel, custom frameworks)  
 - **JavaScript:** My bread and butter for over a decade!  
-- **Python:** New to Python and Java, but keen to learn and grow.
+- **Python:** New to Python, but keen to learn and grow.
 
 🔗 **Databases & Caching:**  
 - **Storage Systems:** MySQL, Redis, PostgreSQL, Local Storage, Session Storage  
@@ -81,7 +81,7 @@ Led the infrastructure development and launch of a startup company in the e-lear
 
 ## 💡 Want to Work Together?
 
-Looking to build your next big thing or need a seasoned frontend developer to take your app to the next level? I’m your guy! Don’t hesitate to reach out if you’re hiring, collaborating, or just curious about what I can bring to the table. Let's chat! 🚀
+Looking to build your next big thing or need a seasoned frontend developer to take your app to the next level? I’m your guy! Don’t hesitate to reach out if you’re hiring, collaborating, or just curious about what I can bring to the table. Let's talk! 🚀
 
 ---
 
