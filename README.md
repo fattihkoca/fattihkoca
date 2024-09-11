@@ -1,6 +1,6 @@
 # Hey, I'm Fatih! 👋
 
-<p align="center"><img src="https://github.com/user-attachments/assets/376daa01-ca4b-4607-9363-f8b2e1669402"></p>  
+<p align="center"><a href="https://www.youtube.com/watch?v=1q3xags1uDo" target="_blank"><img src="https://github.com/user-attachments/assets/2d7c04db-ffa6-40ca-8ba0-fe4021c81b26"></a></p>  
 
 👨‍👩‍👧‍👦 Proud husband to [Tuğba Koca](https://tugba.koca.app) and lucky dad of two awesome kids!  
 💻 Full-stack problem solver, UI/UX enthusiast, and tech geek  
