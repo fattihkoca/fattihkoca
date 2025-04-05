@@ -1,6 +1,6 @@
 # Hey, I'm Fatih! 👋
 
-<p align="center"><a href="https://www.youtube.com/watch?v=1q3xags1uDo" target="_blank"><img src="https://github.com/user-attachments/assets/2d7c04db-ffa6-40ca-8ba0-fe4021c81b26"></a></p>  
+<p align="center"><a href="https://www.youtube.com/watch?v=YozjZ7JLFnY" target="_blank"><img src="https://github.com/user-attachments/assets/2d7c04db-ffa6-40ca-8ba0-fe4021c81b26"></a></p>  
 
 👨‍👩‍👧‍👦 Proud husband to [Tuğba Koca](https://tugbayraktarkoca.netlify.app) and lucky dad of two awesome kids!  
 💻 Full-stack problem solver, UI/UX enthusiast, and tech geek  
